@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypotheses/Hypotheses.md",
+                "file": "Hypotheses/Hyp 1 - \"Base\" model but for industry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypotheses"
+              "title": "Hyp 1 - \"Base\" model but for industry"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypotheses/Hypotheses.md",
+                "file": "Hypotheses/Hyp 1 - \"Base\" model but for industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hypotheses"
+              "title": "Backlinks for Hyp 1 - \"Base\" model but for industry"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypotheses/Hypotheses.md",
+                "file": "Hypotheses/Hyp 1 - \"Base\" model but for industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hypotheses"
+              "title": "Outgoing links from Hyp 1 - \"Base\" model but for industry"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypotheses/Hypotheses.md",
+                "file": "Hypotheses/Hyp 1 - \"Base\" model but for industry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hypotheses"
+              "title": "Outline of Hyp 1 - \"Base\" model but for industry"
             }
           }
         ]
@@ -229,11 +229,11 @@
   },
   "active": "f280d8f5bc9165a8",
   "lastOpenFiles": [
+    "Hypotheses/Hypotheses.md",
     "Hypotheses/Hyp 3 - Battery mfg facility.md",
     "Hypotheses/Hyp 1 - \"Base\" model but for industry.md",
     "Hypotheses/Hyp 2 - Battery in everything; wide-scale BMS?.md",
     "Untitled",
-    "Hypotheses/Hypotheses.md",
     "Hypotheses"
   ]
 }
