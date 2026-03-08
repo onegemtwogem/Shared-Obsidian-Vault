@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypotheses/Hypotheses.md",
+                "file": "Hypotheses/Claude the Meganerd - hypothesis generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypotheses"
+              "title": "Claude the Meganerd - hypothesis generation"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5a357e80c0496420",
@@ -243,9 +243,9 @@
   },
   "active": "e7a6b3c4c19534fb",
   "lastOpenFiles": [
-    "Hypotheses/Hyp 3 - Battery mfg facility.md",
     "Hypotheses/Hypotheses.md",
-    "Hypotheses/Claude as a mega nerd - hypothesis generation.md",
+    "Hypotheses/Claude the Meganerd - hypothesis generation.md",
+    "Hypotheses/Hyp 3 - Battery mfg facility.md",
     "Hypotheses/Hyp 2 - Battery in everything; wide-scale BMS?.md",
     "Hypotheses/Hyp 1 - \"Base\" model but for industry.md",
     "Untitled",

@@ -39,6 +39,9 @@ Local development: UW batt labs, Kris's batt incubator
 
 - Solid state batteries, power electronics
 - MCS charging interfaces, instead of CCS or in addition to
+### Also look at:
+- Dietrich document
+- What makes the difference, where the most emissions are
 ## Look at trends that seem true, eventually
 
 - LLMs will use less energy than they do now
